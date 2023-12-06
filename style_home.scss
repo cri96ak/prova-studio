@@ -1,0 +1,12 @@
+.menu{
+    display: flex;
+}
+
+.menu a{
+    flex: row;
+    align-items:center;
+    margin: 5px;
+    background-color: black;
+    color:white;
+    text-decoration: none;
+}
